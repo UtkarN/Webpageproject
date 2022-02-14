@@ -1,0 +1,14 @@
+[pack]
+	buildbitmaps = false
+[core]
+	symlinks = false
+	repositoryformatversion = 0
+	filemode = false
+	logallrefupdates = true
+	bare = false
+[user]
+	name = OJAS NIGAM
+	email = OJAS NIGAM@LAPTOP-JLTSJOOP
+[remote "origin"]
+	url = https://UtkarN@github.com/UtkarN/webpage.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
